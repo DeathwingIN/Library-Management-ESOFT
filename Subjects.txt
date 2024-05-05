@@ -1,0 +1,16 @@
+Arts
+Animals
+Fiction
+Science & Mathematics
+Business & Finance
+Children's
+History
+Health & Wellness
+Biography
+Social Sciences
+Places
+Textbooks
+Books by Language
+Magazines
+
+• At least one upper case english letter • At least one lower case english letter • At least one digit • At least one special character • Minimum 8 in length

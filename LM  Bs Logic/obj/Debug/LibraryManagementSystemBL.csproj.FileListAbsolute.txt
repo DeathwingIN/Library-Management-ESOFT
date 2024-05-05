@@ -1,0 +1,6 @@
+I:\ESOFT\Project\LIB Original\LM  Bs Logic\bin\Debug\LM  Bs Logic.dll
+I:\ESOFT\Project\LIB Original\LM  Bs Logic\bin\Debug\LM  Bs Logic.pdb
+I:\ESOFT\Project\LIB Original\LM  Bs Logic\obj\Debug\LibraryManagementSystemBL.csprojAssemblyReference.cache
+I:\ESOFT\Project\LIB Original\LM  Bs Logic\obj\Debug\LibraryManagementSystemBL.csproj.CoreCompileInputs.cache
+I:\ESOFT\Project\LIB Original\LM  Bs Logic\obj\Debug\LM  Bs Logic.dll
+I:\ESOFT\Project\LIB Original\LM  Bs Logic\obj\Debug\LM  Bs Logic.pdb

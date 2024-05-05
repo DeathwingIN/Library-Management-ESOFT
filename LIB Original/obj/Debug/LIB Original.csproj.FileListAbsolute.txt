@@ -1,0 +1,35 @@
+I:\ESOFT\Project\LIB Original\LIB Original\bin\Debug\LIB Original.exe.config
+I:\ESOFT\Project\LIB Original\LIB Original\bin\Debug\LIB Original.exe
+I:\ESOFT\Project\LIB Original\LIB Original\bin\Debug\LIB Original.pdb
+I:\ESOFT\Project\LIB Original\LIB Original\obj\Debug\LIB_Original.Properties.Resources.resources
+I:\ESOFT\Project\LIB Original\LIB Original\obj\Debug\LIB Original.csproj.GenerateResource.cache
+I:\ESOFT\Project\LIB Original\LIB Original\obj\Debug\LIB Original.csproj.CoreCompileInputs.cache
+I:\ESOFT\Project\LIB Original\LIB Original\obj\Debug\LIB Original.exe
+I:\ESOFT\Project\LIB Original\LIB Original\obj\Debug\LIB Original.pdb
+I:\ESOFT\Project\LIB Original\LIB Original\obj\Debug\LIB_Original.MemberMangement.resources
+I:\ESOFT\Project\LIB Original\LIB Original\bin\Debug\LM  Bs Logic.dll
+I:\ESOFT\Project\LIB Original\LIB Original\bin\Debug\LM  Bs Logic.pdb
+I:\ESOFT\Project\LIB Original\LIB Original\obj\Debug\LIB Original.csproj.CopyComplete
+I:\ESOFT\Project\LIB Original\LIB Original\bin\Debug\zxing.dll
+I:\ESOFT\Project\LIB Original\LIB Original\bin\Debug\zxing.presentation.dll
+I:\ESOFT\Project\LIB Original\LIB Original\bin\Debug\zxing.xml
+I:\ESOFT\Project\LIB Original\LIB Original\bin\Debug\zxing.presentation.xml
+I:\ESOFT\Project\LIB Original\LIB Original\obj\Debug\LIB_Original.Catlog.resources
+I:\ESOFT\Project\LIB Original\LIB Original\obj\Debug\LIB_Original.Account.resources
+I:\ESOFT\Project\LIB Original\LIB Original\obj\Debug\LIB_Original.Login.resources
+I:\ESOFT\Project\LIB Original\LIB Original\obj\Debug\LIB_Original.UserSelection.resources
+I:\ESOFT\Project\LIB Original\LIB Original\obj\Debug\LIB_Original.AdminLogin.resources
+I:\ESOFT\Project\LIB Original\LIB Original\obj\Debug\LIB Original.csproj.AssemblyReference.cache
+I:\ESOFT\Project\LIB Original\LIB Original\obj\Debug\LIB_Original.UserUI.resources
+I:\ESOFT\Project\LIB Original\LIB Original\obj\Debug\LIB_Original.ADMINUI.resources
+I:\ESOFT\Project\LIB Original\LIB Original\obj\Debug\LIB_Original.IssueBooks.resources
+I:\ESOFT\Project\LIB Original\LIB Original\obj\Debug\LIB_Original.ReturnBook.resources
+I:\ESOFT\Project\LIB Original\LIB Original\obj\Debug\LIB_Original.CompleteBookDetails.resources
+I:\ESOFT\Project\LIB Original\LIB Original\obj\Debug\LIB_Original.Calender.resources
+I:\ESOFT\Project\LIB Original\LIB Original\obj\Debug\LIB_Original.FeePayments.resources
+I:\ESOFT\Project\LIB Original\LIB Original\obj\Debug\LIB_Original.Dashbord.resources
+I:\ESOFT\Project\LIB Original\LIB Original\obj\Debug\LIB_Original.History.resources
+I:\ESOFT\Project\LIB Original\LIB Original\obj\Debug\LIB_Original.ReserveNew.resources
+I:\ESOFT\Project\LIB Original\LIB Original\obj\Debug\LIB_Original.UserBorrowings.resources
+I:\ESOFT\Project\LIB Original\LIB Original\obj\Debug\LIB_Original.UserReservation.resources
+I:\ESOFT\Project\LIB Original\LIB Original\obj\Debug\LIB_Original.BookList.resources
